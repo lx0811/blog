@@ -1,4 +1,4 @@
-baseURL: https://lx0811.github.io
+baseURL: http://lx0811.github.io
 theme: pure
 title: Pure theme for Hugo
 defaultContentLanguage: en  # en/zh/...
@@ -8,7 +8,6 @@ paginate: 7
 enableEmoji: true
 PygmentsCodeFences: false
 googleAnalytics: ""      # UA-XXXXXXXX-X 
-publishDir: docs
 permalinks:
   posts: /:year/:month/:filename/
 
